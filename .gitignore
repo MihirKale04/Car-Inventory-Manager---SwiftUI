@@ -1,0 +1,22 @@
+# Xcode
+.DS_Store
+# Build products
+build/
+*.xcodeproj/xcuserdata/
+*.xcuserdatad/
+DerivedData/
+.swiftpm/
+# Swift Package Manager (if used)
+.build/
+# Generated xcconfig files
+*.xcconfig
+# Carthage (if used)
+Carthage/Build/
+# CocoaPods (if used)
+Pods/
+# Playgrounds
+*.playground/
+# Other
+*.lock
+# macOS
+.DS_Store
